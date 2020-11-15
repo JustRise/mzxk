@@ -1,0 +1,19 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.6",
+    "ytdl-core": "^3.2.2",
+    "ytdl-core-discord": "^1.2.1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "license": "MIT"
+}
